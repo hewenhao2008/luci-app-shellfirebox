@@ -1,0 +1,10 @@
+
+.fa-lock:before { content: '\e800'; } /* '' */
+.fa-lock-open-alt:before { content: '\e801'; } /* '' */
+.fa-spinner:before { content: '\e802'; } /* '' */
+.fa-globe:before { content: '\e803'; } /* '' */
+.fa-help-circled:before { content: '\e804'; } /* '' */
+.fa-star:before { content: '\e805'; } /* '' */
+.fa-star-empty:before { content: '\e806'; } /* '' */
+.fa-wrench:before { content: '\e807'; } /* '' */
+.fa-language:before { content: '\e808'; } /* '' */

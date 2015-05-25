@@ -1,0 +1,77 @@
+#selectedServerTable td {
+	text-align:center;
+	vertical-align:middle;
+}
+
+#serverListTable td {
+	vertical-align:middle;
+	text-align:center;
+}
+
+#serverListTable img {
+	height:40px;
+	width:80px;
+	border:1px solid grey;
+}
+
+#serverListTable i {
+	color:#46A546;
+}
+
+
+#action a {
+	width:150px;
+}
+
+#action span {
+	font-size:15px;
+}
+
+#selectedServerLocation span {
+	font-size:15px;
+}
+
+#selectedServerLocation img {
+	height:70px;
+}
+
+#selectedServerType i {
+	color:#46A546;
+}
+
+#selectedServerType span {
+	font-size:18px;
+}
+
+#connectionstate span {
+	font-size:18px;
+	font-weight:bold;
+}
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+}
+/* makes the font 33% larger relative to the icon container */
+.fa-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.fa-2x {
+  font-size: 2em;
+}
+.fa-3x {
+  font-size: 3em;
+}
+.fa-4x {
+  font-size: 4em;
+}
+.fa-5x {
+  font-size: 5em;
+}

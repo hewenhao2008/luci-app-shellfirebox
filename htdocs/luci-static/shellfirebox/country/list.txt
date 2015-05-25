@@ -1,0 +1,216 @@
+ Datentr„ger in Laufwerk C: ist ssd-big-sandisk
+ Volumeseriennummer: 2C8F-2295
+
+ Verzeichnis von C:\Program Files (x86)\Flag Database\Flags\Nations
+
+24.05.2015  20:09    <DIR>          .
+24.05.2015  20:09    <DIR>          ..
+24.05.2015  20:08    <DIR>          ! Icons
+24.05.2015  20:08    <DIR>          Abkhazia
+24.05.2015  20:08    <DIR>          Afghanistan
+24.05.2015  20:08    <DIR>          Albania
+24.05.2015  20:08    <DIR>          Algeria
+24.05.2015  20:08    <DIR>          Andorra
+24.05.2015  20:08    <DIR>          Angola
+24.05.2015  20:08    <DIR>          Antigua and Barbuda
+24.05.2015  20:08    <DIR>          Argentina
+24.05.2015  20:08    <DIR>          Armenia
+24.05.2015  20:08    <DIR>          Australia
+24.05.2015  20:08    <DIR>          Austria
+24.05.2015  20:08    <DIR>          Azerbaijan
+24.05.2015  20:08    <DIR>          Bahamas, The
+24.05.2015  20:08    <DIR>          Bahrain
+24.05.2015  20:08    <DIR>          Bangladesh
+24.05.2015  20:08    <DIR>          Barbados
+24.05.2015  20:08    <DIR>          Belarus
+24.05.2015  20:08    <DIR>          Belgium
+24.05.2015  20:08    <DIR>          Belize
+24.05.2015  20:08    <DIR>          Benin
+24.05.2015  20:08    <DIR>          Bhutan
+24.05.2015  20:08    <DIR>          Bolivia
+24.05.2015  20:08    <DIR>          Bosnia and Herzegovina
+24.05.2015  20:08    <DIR>          Botswana
+24.05.2015  20:08    <DIR>          Brazil
+24.05.2015  20:08    <DIR>          Brunei
+24.05.2015  20:08    <DIR>          Bulgaria
+24.05.2015  20:08    <DIR>          Burkina Faso
+24.05.2015  20:08    <DIR>          Burma (Myanmar)
+24.05.2015  20:08    <DIR>          Burundi
+24.05.2015  20:08    <DIR>          Cambodia
+24.05.2015  20:08    <DIR>          Cameroon
+24.05.2015  20:08    <DIR>          Canada
+24.05.2015  20:08    <DIR>          Cape Verde
+24.05.2015  20:08    <DIR>          Central African Republic
+24.05.2015  20:08    <DIR>          Chad
+24.05.2015  20:08    <DIR>          Chile
+24.05.2015  20:08    <DIR>          China
+24.05.2015  20:08    <DIR>          China, Republic of
+24.05.2015  20:08    <DIR>          Colombia
+24.05.2015  20:08    <DIR>          Comoros
+24.05.2015  20:08    <DIR>          Congo, Democratic Republic of the
+24.05.2015  20:08    <DIR>          Congo, Republic of the
+24.05.2015  20:08    <DIR>          Cook Islands
+24.05.2015  20:08    <DIR>          Costa Rica
+24.05.2015  20:08    <DIR>          Croatia
+24.05.2015  20:08    <DIR>          Cuba
+24.05.2015  20:08    <DIR>          Cyprus
+24.05.2015  20:08    <DIR>          Czech Republic
+24.05.2015  20:08    <DIR>          Denmark
+24.05.2015  20:08    <DIR>          Djibouti
+24.05.2015  20:08    <DIR>          Dominica
+24.05.2015  20:08    <DIR>          Dominican Republic
+24.05.2015  20:08    <DIR>          East Timor
+24.05.2015  20:08    <DIR>          Ecuador
+24.05.2015  20:08    <DIR>          Egypt
+24.05.2015  20:08    <DIR>          El Salvador
+24.05.2015  20:08    <DIR>          Equatorial Guinea
+24.05.2015  20:08    <DIR>          Eritrea
+24.05.2015  20:08    <DIR>          Estonia
+24.05.2015  20:08    <DIR>          Ethiopia
+24.05.2015  20:08    <DIR>          Fiji
+24.05.2015  20:08    <DIR>          Finland
+24.05.2015  20:08    <DIR>          France
+24.05.2015  20:08    <DIR>          Gabon
+24.05.2015  20:08    <DIR>          Gambia, The
+24.05.2015  20:08    <DIR>          Georgia
+24.05.2015  20:08    <DIR>          Germany
+24.05.2015  20:08    <DIR>          Ghana
+24.05.2015  20:08    <DIR>          Greece
+24.05.2015  20:08    <DIR>          Grenada
+24.05.2015  20:08    <DIR>          Guatemala
+24.05.2015  20:08    <DIR>          Guinea
+24.05.2015  20:08    <DIR>          Guinea-Bissau
+24.05.2015  20:08    <DIR>          Guyana
+24.05.2015  20:08    <DIR>          Haiti
+24.05.2015  20:08    <DIR>          Honduras
+24.05.2015  20:08    <DIR>          Hungary
+24.05.2015  20:08    <DIR>          Iceland
+24.05.2015  20:08    <DIR>          India
+24.05.2015  20:08    <DIR>          Indonesia
+24.05.2015  20:08    <DIR>          Iran
+24.05.2015  20:08    <DIR>          Iraq
+24.05.2015  20:08    <DIR>          Ireland
+24.05.2015  20:08    <DIR>          Israel
+24.05.2015  20:08    <DIR>          Italy
+24.05.2015  20:08    <DIR>          Ivory Coast (C“te d'Ivoire)
+24.05.2015  20:08    <DIR>          Jamaica
+24.05.2015  20:08    <DIR>          Japan
+24.05.2015  20:08    <DIR>          Jordan
+24.05.2015  20:08    <DIR>          Kazakhstan
+24.05.2015  20:08    <DIR>          Kenya
+24.05.2015  20:08    <DIR>          Kiribati
+24.05.2015  20:08    <DIR>          Kosovo
+24.05.2015  20:08    <DIR>          Kuwait
+24.05.2015  20:08    <DIR>          Kyrgyzstan
+24.05.2015  20:08    <DIR>          Laos
+24.05.2015  20:08    <DIR>          Latvia
+24.05.2015  20:08    <DIR>          Lebanon
+24.05.2015  20:08    <DIR>          Lesotho
+24.05.2015  20:08    <DIR>          Liberia
+24.05.2015  20:08    <DIR>          Libya
+24.05.2015  20:08    <DIR>          Liechtenstein
+24.05.2015  20:08    <DIR>          Lithuania
+24.05.2015  20:08    <DIR>          Luxembourg
+24.05.2015  20:08    <DIR>          Macedonia
+24.05.2015  20:08    <DIR>          Madagascar
+24.05.2015  20:08    <DIR>          Malawi
+24.05.2015  20:08    <DIR>          Malaysia
+24.05.2015  20:08    <DIR>          Maldives
+24.05.2015  20:08    <DIR>          Mali
+24.05.2015  20:08    <DIR>          Malta
+24.05.2015  20:08    <DIR>          Marshall Islands
+24.05.2015  20:08    <DIR>          Mauritania
+24.05.2015  20:08    <DIR>          Mauritius
+24.05.2015  20:08    <DIR>          Mexico
+24.05.2015  20:08    <DIR>          Micronesia
+24.05.2015  20:08    <DIR>          Moldova
+24.05.2015  20:08    <DIR>          Monaco
+24.05.2015  20:08    <DIR>          Mongolia
+24.05.2015  20:08    <DIR>          Montenegro
+24.05.2015  20:08    <DIR>          Morocco
+24.05.2015  20:08    <DIR>          Mozambique
+24.05.2015  20:08    <DIR>          Nagorno-Karabakh
+24.05.2015  20:08    <DIR>          Namibia
+24.05.2015  20:08    <DIR>          Nauru
+24.05.2015  20:08    <DIR>          Nepal
+24.05.2015  20:08    <DIR>          Netherlands
+24.05.2015  20:08    <DIR>          New Zealand
+24.05.2015  20:08    <DIR>          Nicaragua
+24.05.2015  20:08    <DIR>          Niger
+24.05.2015  20:08    <DIR>          Nigeria
+24.05.2015  20:08    <DIR>          Niue
+24.05.2015  20:08    <DIR>          North Korea
+24.05.2015  20:08    <DIR>          Northern Cyprus, Turkish Republic of
+24.05.2015  20:08    <DIR>          Norway
+24.05.2015  20:08    <DIR>          Oman
+24.05.2015  20:08    <DIR>          Pakistan
+24.05.2015  20:08    <DIR>          Palau
+24.05.2015  20:08    <DIR>          Palestine
+24.05.2015  20:08    <DIR>          Panama
+24.05.2015  20:08    <DIR>          Papua New Guinea
+24.05.2015  20:08    <DIR>          Paraguay
+24.05.2015  20:08    <DIR>          Peru
+24.05.2015  20:08    <DIR>          Philippines
+24.05.2015  20:08    <DIR>          Poland
+24.05.2015  20:08    <DIR>          Portugal
+24.05.2015  20:08    <DIR>          Qatar
+24.05.2015  20:08    <DIR>          Romania
+24.05.2015  20:08    <DIR>          Russia
+24.05.2015  20:08    <DIR>          Rwanda
+24.05.2015  20:08    <DIR>          Sahrawi Arab Democratic Republic
+24.05.2015  20:08    <DIR>          Saint Kitts and Nevis
+24.05.2015  20:08    <DIR>          Saint Lucia
+24.05.2015  20:08    <DIR>          Saint Vincent and the Grenadines
+24.05.2015  20:08    <DIR>          Samoa
+24.05.2015  20:08    <DIR>          San Marino
+24.05.2015  20:08    <DIR>          Sao Tome and Principe
+24.05.2015  20:08    <DIR>          Saudi Arabia
+24.05.2015  20:08    <DIR>          Senegal
+24.05.2015  20:08    <DIR>          Serbia
+24.05.2015  20:08    <DIR>          Seychelles
+24.05.2015  20:08    <DIR>          Sierra Leone
+24.05.2015  20:08    <DIR>          Singapore
+24.05.2015  20:08    <DIR>          Slovakia
+24.05.2015  20:08    <DIR>          Slovenia
+24.05.2015  20:08    <DIR>          Solomon Islands
+24.05.2015  20:08    <DIR>          Somalia
+24.05.2015  20:08    <DIR>          Somaliland
+24.05.2015  20:08    <DIR>          South Africa
+24.05.2015  20:08    <DIR>          South Korea
+24.05.2015  20:09    <DIR>          South Ossetia
+24.05.2015  20:09    <DIR>          South Sudan
+24.05.2015  20:09    <DIR>          Spain
+24.05.2015  20:09    <DIR>          Sri Lanka
+24.05.2015  20:09    <DIR>          Sudan
+24.05.2015  20:09    <DIR>          Suriname
+24.05.2015  20:09    <DIR>          Swaziland
+24.05.2015  20:09    <DIR>          Sweden
+24.05.2015  20:09    <DIR>          Switzerland
+24.05.2015  20:09    <DIR>          Syria
+24.05.2015  20:09    <DIR>          Tajikistan
+24.05.2015  20:09    <DIR>          Tanzania
+24.05.2015  20:09    <DIR>          Thailand
+24.05.2015  20:09    <DIR>          Togo
+24.05.2015  20:09    <DIR>          Tonga
+24.05.2015  20:09    <DIR>          Transnistria
+24.05.2015  20:09    <DIR>          Trinidad and Tobago
+24.05.2015  20:09    <DIR>          Tunisia
+24.05.2015  20:09    <DIR>          Turkey
+24.05.2015  20:09    <DIR>          Turkmenistan
+24.05.2015  20:09    <DIR>          Tuvalu
+24.05.2015  20:09    <DIR>          Uganda
+24.05.2015  20:09    <DIR>          Ukraine
+24.05.2015  20:09    <DIR>          United Arab Emirates
+24.05.2015  20:09    <DIR>          United Kingdom
+24.05.2015  20:09    <DIR>          United States
+24.05.2015  20:09    <DIR>          Uruguay
+24.05.2015  20:09    <DIR>          Uzbekistan
+24.05.2015  20:09    <DIR>          Vanuatu
+24.05.2015  20:09    <DIR>          Vatican City
+24.05.2015  20:09    <DIR>          Venezuela
+24.05.2015  20:09    <DIR>          Vietnam
+24.05.2015  20:09    <DIR>          Yemen
+24.05.2015  20:09    <DIR>          Zambia
+24.05.2015  20:09    <DIR>          Zimbabwe
+               0 Datei(en),              0 Bytes
+             209 Verzeichnis(se), 66.871.111.680 Bytes frei
